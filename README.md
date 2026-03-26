@@ -19,3 +19,6 @@ fenci.py利用哈工大停词表进行分词
 word2vec.py训练模型
 
 test.py检测模型
+
+# 3.结果
+word2vec.model
