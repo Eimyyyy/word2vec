@@ -21,4 +21,6 @@ word2vec.py训练模型
 test.py检测模型
 
 # 3.结果
-word2vec.model
+训练好的模型：word2vec.model
+
+运行test.py得到10个词向量的图片
