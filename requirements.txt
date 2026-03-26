@@ -8,3 +8,4 @@ scikit-learn
 tqdm
 opencc-python-reimplemented
 bz2file
+adjustText
