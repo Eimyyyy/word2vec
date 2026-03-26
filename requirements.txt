@@ -1,0 +1,10 @@
+#Word2vec
+gensim
+jieba
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+opencc-python-reimplemented
+bz2file
