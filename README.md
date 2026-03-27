@@ -26,4 +26,5 @@ test.py检测模型
 
 运行test.py得到10个词向量的图片
 
+# 结果
 ![结果])(result/word_vectors_pca.png)
