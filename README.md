@@ -25,3 +25,5 @@ test.py检测模型
 (备注：模型大于100MB，上传至云盘,下载到main文件夹中：(https://pan.quark.cn/s/eddce8df464b)
 
 运行test.py得到10个词向量的图片
+
+![结果])(word_vectors_pca.png)
