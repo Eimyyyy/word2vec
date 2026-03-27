@@ -21,6 +21,7 @@ word2vec.py训练模型
 test.py检测模型
 
 # 3.结果
-训练好的模型：word2vec.model
+训练好的模型：word2vec.model ; word2vec.model.syn1neg.npy ; word2vec.model.wv.vectors.npy
+(备注：模型大于100MB，上传至云盘：https://pan.quark.cn/s/eddce8df464b，下载到main文件夹中)
 
 运行test.py得到10个词向量的图片
